@@ -10,9 +10,8 @@ Depending on on how this project is received, I may go back and try to add windo
 
 ## Key Binds
 * CTRL-G Starts the script, creating a grid overlay on the screen.
+* CTRL-H Destroys the overlay. CTRL-G will create it again.
 * CTRL-J Exits the script
-
-** CTRL-H is for testing potential updates
 
 ## Naming Convention
 The image overlays are named as "grid_#.gif" The "#" is replaced with a scale number.

@@ -11,6 +11,7 @@ Depending on on how this project is received, I may go back and try to add windo
 ## Key Binds
 * CTRL-G Starts the script, creating a grid overlay on the screen.
 * CTRL-J Exits the script
+
 ** CTRL-H is for testing potential updates
 
 ## Naming Convention

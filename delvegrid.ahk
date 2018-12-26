@@ -13,7 +13,7 @@ if (toggled == 0) {
 	Gui, +LastFound +AlwaysOnTop +ToolWindow -Caption
 	WinSet, TransColor, ffffff
 	Gui, 1:Add, Picture, width height +BackgroundTrans vT1, %target%
-	Gui, 1:Show
+	Gui, 1:Show, xCenter y60
 } 
 else {
 	toggled = 0

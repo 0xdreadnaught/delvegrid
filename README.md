@@ -9,8 +9,7 @@ It does NOT base its location off of the x,y coords of the game window. Therefor
 Depending on on how this project is received, I may go back and try to add windows mode support.
 
 ## Key Binds
-* CTRL-G Starts the script, creating a grid overlay on the screen.
-* CTRL-H Destroys the overlay. CTRL-G will create it again.
+* CTRL-V Start, and toggles the overlay.
 * CTRL-J Exits the script
 
 ## Naming Convention

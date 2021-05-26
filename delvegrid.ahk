@@ -1,6 +1,6 @@
 toggled = 0
 
-~v::
+^v::
 WinGetTitle, Title, A
 if (Title == "Path of Exile") {
 	WinGetPos, X, Y, Width, Height, A
